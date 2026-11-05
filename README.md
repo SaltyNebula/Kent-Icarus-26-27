@@ -29,7 +29,7 @@ University of Kent; entered by the Kent Engineering Society (KES).
 | Lucian Willcock | Propulsion & Simulation Lead / Payload | Stage 2 Physics with Astrophysics |
 | Rishabesh Suthaar | Firmware & Software Lead / Payload / Outreach | Stage 3 Electrical and Electronic Engineering |
 | Alex Murphy | Structures Lead / Recovery Lead | Stage 2 Mechanical Engineering |
-| Yonghua (Lucas) Liao | Structures Lead / Propulsion | Stage 2 Mechanical Engineering |
+| Yonghua (Lucas) Liao | Structures Lead / Propulsion & Simulation | Stage 2 Mechanical Engineering |
 | Hussein Alrodan | Firmware / Recovery Electronics | Stage 3 Electronic and Computer Engineering |
 | Sadan Adnan | Avionics / Firmware | Stage 3 Electronic and Computer Engineering |
 

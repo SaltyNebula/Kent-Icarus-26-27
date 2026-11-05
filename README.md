@@ -25,7 +25,7 @@ University of Kent; entered by the Kent Engineering Society (KES).
 | --- | --- | --- |
 | Calum Lewis | Team Captain / Payload Lead / Systems & Integration | Stage 3 Electrical and Electronic Engineering |
 | Mubarak Ladipo | Vice Captain / Avionics Lead / Structures | Stage 3 Electronic and Computer Engineering |
-| Grace Ezeh | Project Manager / Documentation & Reviews / Avionics | Stage 3 Bioengineering |
+| Grace Ezeh | Project Manager / Documentation & Reviews / Avionics | Stage 3 Biomedical Engineering |
 | Lucian Willcock | Propulsion & Simulation Lead / Payload | Stage 2 Physics with Astrophysics |
 | Rishabesh Suthaar | Firmware & Software Lead / Payload / Outreach | Stage 3 Electrical and Electronic Engineering |
 | Alex Murphy | Structures Lead / Recovery Lead | Stage 2 Mechanical Engineering |
